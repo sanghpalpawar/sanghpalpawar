@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanghpal</h1>
-<h3 align="center">web developer 
-
+<h3 align="center">web developer | Lifelong learner | Open source enthusiastic
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
